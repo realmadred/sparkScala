@@ -20,5 +20,6 @@
         <option name="useOurOwnAutoImport" value="true" />
       </SbtProjectSettings>
     </option>
+    <option name="vmParameters" value="" />
   </component>
 </project>
